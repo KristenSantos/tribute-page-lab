@@ -1,2 +1,26 @@
 /* Styles go beneath here! */
-
+body{
+    background-color: #eeeeee;
+}
+h1,h2 {
+    text-align: center
+}
+p{
+    text-align: center;
+}
+figure {
+    background-color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+figcaption{
+    text-align: center
+}
+#img {
+    margin-left:100px;
+    margin-right: 100px;
+}
+.date{
+    font-weight: bold;
+}
